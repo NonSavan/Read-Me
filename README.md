@@ -37,7 +37,7 @@
 - Prepare for an IT or Network Engineering internship
 
 📫 **Connect with Me**
-- Telegram: t.me/Savan_127_0_0_1
+- Telegram: https://t.me/Savan_127_0_0_1
 
 ---
 *Learning every day. Building practical skills one project at a time.*
